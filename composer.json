@@ -1,0 +1,15 @@
+{
+    "name": "yf/yf-phplib",
+    "description": "yf yf-phplib",
+    "type": "library",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "wu",
+            "email": "binbin.wu@ruifusoft.com"
+        }
+    ],
+    "autoload": {
+        "classmap":["src/"]
+    }
+}
